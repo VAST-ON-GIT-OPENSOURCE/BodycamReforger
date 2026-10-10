@@ -8,8 +8,9 @@ stay 100 % Arma.
 
 ## Get the mod
 
-In Arma Reforger: **Workshop → search "Bodycam Reforger"** → subscribe. Servers list it like any other mod; players
-download it automatically.
+**[Bodycam Reforger on the Arma Reforger Workshop](https://reforger.armaplatform.com/workshop/F26C9CD1DDF4D30E-BodycamReforger)**
+(in game: Workshop → search "Bodycam Reforger" → subscribe). Servers list it like any other mod (mod ID
+`F26C9CD1DDF4D30E`); players download it automatically.
 
 ## Companion program (optional, Windows)
 
