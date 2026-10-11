@@ -8,7 +8,7 @@ stay Arma's.
 
 **[Get it on the Arma Reforger Workshop](https://reforger.armaplatform.com/workshop/F26C9CD1DDF4D30E-BodycamReforger)**
 – in game: Workshop → search "Bodycam Reforger" → subscribe. Servers list it like any other mod (mod ID
-`F26C9CD1DDF4D30E`); players download it automatically. Version **1.3.0**.
+`F26C9CD1DDF4D30E`); players download it automatically. Version **1.3.1**.
 
 ## Weapon handling
 
@@ -48,7 +48,8 @@ Pause menu → **Bodycam Reforger** (right under Settings):
 | Cant angle | 0–45° |
 | Hold-breath time, exhale, arm fatigue, tremor, hit reaction, settling | 0–200 % |
 
-0 % switches a feature off. The host, logged-in server admins and session admins can change the values; the server keeps
+0 % switches a feature off. Only the host and logged-in server admins (`#login`) can change the values – not a voted-in
+session admin. The server keeps
 them in its profile folder (`bcr/settings.txt`, also editable there) and sends them to every player – also to players who
 join later. Everyone else sees them read-only.
 
