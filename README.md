@@ -9,7 +9,8 @@ stay Arma's.
 **[Get it on the Arma Reforger Workshop](https://reforger.armaplatform.com/workshop/F26C9CD1DDF4D30E-BodycamReforger)**
 – in game: Workshop → search "Bodycam Reforger" → subscribe. Servers list it like any other mod (mod ID
 `F26C9CD1DDF4D30E`); players download it automatically. Version **1.4.4** – the keyboard and mouse keys work again
-(in 1.4.1–1.4.3 only the controller keys did).
+(in 1.4.1–1.4.3 only the controller keys did), and in blind fire round a corner and leaning right both hands stay on
+the weapon.
 
 ## Weapon handling
 
@@ -31,7 +32,7 @@ stay Arma's.
 | **High ready** | `Ctrl + Mouse 5` | `RB + R3` | muzzle up in front of the chest, both hands on the weapon; the trigger brings it down first |
 | **Low ready** | `Ctrl + Mouse 4` | `RB + L3` | Arma's own lowered weapon, also while sprinting |
 | **Blind fire** | `Ctrl + X` | `RB + Y` | weapon over the head, the muzzle lifts clear of a parapet edge; leaning (`Q` / `E`, controller: hold `A` + left stick) takes it round the left / right corner |
-| **Blind fire round a corner** | `Shift + Mouse 5` / `Shift + Mouse 4` | `RB + D-pad left` / `RB + D-pad right` | weapon across the chest, muzzle out to the left / right, body behind the wall; to the right (arms crossed) far less accurate; beside a wall it stays back and holds fire |
+| **Blind fire round a corner** | `Shift + Mouse 5` / `Shift + Mouse 4` | `RB + D-pad left` / `RB + D-pad right` | weapon held out across the chest, muzzle out to the left / right with its tip in view, body behind the wall; both hands stay on the weapon when you turn or strafe fast; beside a wall it stays back and holds fire |
 | **Point shooting** | `Ctrl + Middle mouse` | `RB + A` | canted at the hip for quick close shots – to the right, with the left cant key to the left |
 | **Canted carry** | `Alt + Middle mouse` | `RB + View` | the weapon tilted far to the left (with the right cant key to the right), low in view, to walk with |
 
@@ -107,7 +108,8 @@ Kanten sind kombinierbar: Lehnen in jeder Pose, die Kanten-Tasten wählen die Se
 Trageweise. Controller-Unterstützung – jede Taste hat eine Controller-Belegung (RB als Umschalter, z. B. `RB + X` /
 `RB + B` Kanten, `RB + Y` Blind Fire, `A` halten beim Zielen = Atem anhalten); jeder Spieler belegt alle Tasten selbst um
 unter Einstellungen → Steuerung → „Bodycam Reforger“. Neu in 1.4.4: die Tastatur- und Maus-Tasten gehen wieder (in
-1.4.1–1.4.3 ging nur der Controller).
+1.4.1–1.4.3 ging nur der Controller); Blind Fire um die Ecke hält die Waffe weiter raus mit der Mündungsspitze im Bild,
+und dort wie beim Lehnen rechts bleiben beide Hände an der Waffe.
 Kanten (`Alt + Maus 5 / 4`, mit Lehnen zur selben Seite 9 cm weiter um die Ecke), Atem anhalten (`Shift`), Arm-Ermüdung,
 Zittern und Treffer-Reaktion. Admins stellen im Pausemenü unter „Bodycam Reforger“ jede Wirkung für alle Spieler ein;
 „Bodycam recoil“ schaltet auf Armas originalen Rückstoß zurück, „Blind fire allowed“ schaltet Blind Fire ab. Die
